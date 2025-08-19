@@ -25,7 +25,7 @@
     <input type="aadhar" placeholder="Enter Aadhar" name="aadhar" id="aadhar" required>
     <br>
 
-<label for="Parents Name"><b>Parents Name</b></label>
+    <label for="Parents Name"><b>Parents Name</b></label>
     <input type="Parents Name" placeholder="Enter Parents Name" name="Parents Name" id="Parents Name" required>
     <br>
 
