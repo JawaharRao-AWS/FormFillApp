@@ -25,6 +25,10 @@
     <input type="aadhar" placeholder="Enter Aadhar" name="aadhar" id="aadhar" required>
     <br>
 
+<label for="Parents Name"><b>Parents Name</b></label>
+    <input type="Parents Name" placeholder="Enter Parents Name" name="Parents Name" id="Parents Name" required>
+    <br>
+
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
