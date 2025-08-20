@@ -16,6 +16,9 @@
     <label for="dob"><b>DOB</b></label>
     <input type="dob" placeholder="Enter DOB" name="dob" id="dob" required>
     <br>
+    <label for="Voter id"><b>Voter id</b></label>
+    <input type="Voter id" placeholder="Voter id" name="Voter id" id="Voter id" required>
+    <br>
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
