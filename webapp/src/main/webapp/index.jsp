@@ -16,6 +16,7 @@
     <label for="dob"><b>DOB</b></label>
     <input type="dob" placeholder="Enter DOB" name="dob" id="dob" required>
     <br>
+
     <label for="Voter id"><b>Voter id</b></label>
     <input type="Voter id" placeholder="Voter id" name="Voter id" id="Voter id" required>
     <br>
@@ -34,6 +35,10 @@
 
     <label for="Parents Name"><b>Parents Name</b></label>
     <input type="Parents Name" placeholder="Enter Parents Name" name="Parents Name" id="Parents Name" required>
+    <br>
+
+    <label for="Marks"><b>Marks</b></label>
+    <input type="Marks" placeholder="Marks" name="Marks" id="Marks" required>
     <br>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
