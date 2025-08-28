@@ -9,6 +9,10 @@
     <input type="text" placeholder="Enter NAME" name="name" id="name" required>
     <br>
 
+    <label for="Alias name"><b>Alias NAME</b></label>
+    <input type="text" placeholder="Enter Alias NAME" name=" Aliasname" id=" Aliasname" required>
+    <br>
+
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
