@@ -48,6 +48,10 @@
     <input type="Marks" placeholder="Marks" name="Marks" id="Marks" required>
     <br>
 
+    <label for="college name"><b>college name</b></label>
+    <input type="college name" placeholder="college name" name="college name" id="college name" required>
+    <br>
+
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
