@@ -4,6 +4,9 @@
     <p>Please fill in this form!</p>
     <hr>
     <br>
+    <label for="sl.no"><b>sl.no</b></label>
+    <input type="text" placeholder="Enter sl.no" name="name" id="sl.no" required>
+    <br>
 
     <label for="name"><b>NAME</b></label>
     <input type="text" placeholder="Enter NAME" name="name" id="name" required>
