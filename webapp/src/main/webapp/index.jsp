@@ -8,6 +8,10 @@
     <input type="text" placeholder="Enter sl.no" name="name" id="sl.no" required>
     <br>
 
+    <label for="admissionno"><b>admissionno</b></label>
+    <input type="text" placeholder="Enter admissionno" name="admissionno" id="admissionno" required>
+    <br>
+
     <label for="name"><b>NAME</b></label>
     <input type="text" placeholder="Enter NAME" name="name" id="name" required>
     <br>
